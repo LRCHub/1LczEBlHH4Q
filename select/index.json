@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星丘公園",
+  "base_artist": "Hump Back",
+  "createdAt": "2025-12-04T08:23:50.865678Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星丘公園",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_星丘公園_Hump_Back.txt"
+    }
+  ]
+}
